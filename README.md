@@ -19,4 +19,4 @@ The purpose of the analysis was to examine any potential bias in the Amazon Vine
 
 There does appear to be a positive shift in the reviews with the Vine members.  As seen above 51% of the Vine members gave 5 star reviews on the games whereas non-Vine members gave only 38.7% five star reviews.  Also when looking at the average star rating for the helpful reviews there is a disparity as well as the average star rating for Vine members was 4.2 star whereas non_Vine star averages were lower at 3.35 stars.  Both of these numbers indicate a shift upwards.  Due to the small number of Vine reviews in the population, they don't have a significant effect where the total reviews are high.  However for new or lightly reviewed products there could be more influence.
 
-Additional work should be done to see if these values are statistically significant.  Sampling to the datasets and understanding their distribution could determine if there is statitical bias.
+Additional work should be done to see if these values are statistically significant.  Sampling to the datasets and understanding their distribution could determine if there is statistical bias.
